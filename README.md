@@ -1,10 +1,7 @@
 # symfony-exercises
 
-## Exercise 001
+From basic to complexity :)
 
-*  [symfony tool](https://symfony.com/download)
+* [Exercise 001 - basic project scaffolding](./doc/001.md)
 
-* basic project scaffolding
-    ```
-        symfony new symfony-exercise  
-    ```
+* [Exercise 002 - phpunit testing pack & examples of basic tests](./doc/002.md)

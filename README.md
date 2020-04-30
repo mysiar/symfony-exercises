@@ -1,10 +1,5 @@
 # symfony-exercises
 
-## Exercise 001
+From basic to complexity :)
 
-*  [symfony tool](https://symfony.com/download)
-
-* basic project scaffolding
-    ```
-        symfony new symfony-exercise  
-    ```
+* [Exercise 001 - basic project scaffolding](./doc/001.md)
